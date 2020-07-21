@@ -1,0 +1,24 @@
+{
+  "name": "front-end-web-ui-frameworks-and-tools-bootstrap-4",
+  "version": "1.0.0",
+  "description": "This is a directory to learn the course materials of the course on Bootstrap 4 on Coursera",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yoshani/Front-End-Web-UI-Frameworks-and-Tools-Bootstrap-4.git"
+  },
+  "author": "Yoshani Ranaweera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yoshani/Front-End-Web-UI-Frameworks-and-Tools-Bootstrap-4/issues"
+  },
+  "homepage": "https://github.com/Yoshani/Front-End-Web-UI-Frameworks-and-Tools-Bootstrap-4#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
